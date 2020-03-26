@@ -1,0 +1,3 @@
+pip3 install numpy==1.18.2
+pip3 install gym==0.17.1
+pip3 install tensorflow==2.1.0
